@@ -113,7 +113,7 @@ Installs a specific software package.
 
  Task 2: Exercises- Install curl, git, and tree on your system.- Remove tree afterward using a package manager
  ans:
-
+![Image](https://github.com/user-attachments/assets/a914005a-0b6b-43c9-881c-cb80bd508b76)
 
 
 
