@@ -140,8 +140,33 @@ Purpose: Takes input from a file instead of the keyboard.
 
  Exercise:- Create a file with multiple lines.- Use grep to find a keyword.- Pipe output of ls -l into grep and filter .sh files
  ans:
+![Image](https://github.com/user-attachments/assets/d59f10b7-7a1c-45ec-8671-bc035be7bec1)
+ Page 7: Bash Scripting Basics
+ Task 1: Write your first script- Components: Shebang (#!/bin/bash), Variables, If-Else, Loop
+ ans:
+#!/bin/bash
 
+# Variables
+name="Anshifa"
+count=3
 
+# Output
+echo "Hello, $name!"
+
+# If-else
+if [ $count -gt 2 ]; then
+  echo "You have more than 2 items."
+else
+  echo "You have 2 or fewer items."
+fi
+
+# Loop
+for i in {1..3}
+do
+  echo "Repeating $i time(s)..."
+done
+ Exercise:- Create a script greet.sh that accepts a name and prints "Hello, $name".- Write a script that prints numbers 1 to 10 using a for loop.
+ ans:
 
 
 
