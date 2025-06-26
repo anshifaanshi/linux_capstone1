@@ -1,23 +1,41 @@
-taskt 1:introduction to linux
-qn 1: write a short paragraph on what linux is?
+ Task 1: Understanding Linux- Write a short paragraph on what Linux is.- Mention at least 3 Linux distributions and their use cases
 
-ans:
-linux ia a free and open source operating system based on unix.it supports multitasking and multi-user operations.its acts bridge betweencomputer hard ware and software.its known for its stability and flexibility ,making it a popular choice.its freely availble to modify and use.its knowns for strong security feature.users can modify the system suit thier needs from the desktop enviorment to the kernel
+ ans:
+ Linux is an open-source operating system based on the Unix architecture. It manages hardware resources and provides a platform for running software applications. Because it is open-source, anyone can view, modify, and distribute its source code. Linux is widely used in servers, desktops, mobile devices, and embedded systems due to its stability, security, and flexibility.
 
-qn 2:3 linux distrubution and their usecases
+ Ubuntu: A user-friendly Linux distribution popular for desktops and servers. It’s ideal for beginners and widely used for web servers and cloud computing.
 
-ans:
-ubuntu:  ideal for beginners,user freindly interface,also used for cloud servers
-kali linux:cybersecurity,ethical hacking,penetration testing
-arch linux: for advanced users and developers ,lightweight ,building system from the ground up.
+CentOS / Rocky Linux: These are enterprise-grade distributions often used for servers, especially in business environments, known for long-term support and stability.
 
-TASK2:system  navigation basics
-pwd:print the current directory you are in
-ls:display a list of files and folders in the current directory
-cd:change the current working directory to another  directory
-clear:to clear the screen
-echo:print text or variable to the therminal
-whoami:display the user currently logged in to the system
+Raspberry Pi OS: A lightweight distribution designed specifically for Raspberry Pi devices, used mainly in education, DIY projects, and embedded systems.
+
+ Task 2: System Navigation Basics- Commands: pwd, ls, cd, clear, echo, whoam
+
+ ans:pwd
+Purpose: Print Working Directory – shows the full path of your current directory.
+ls
+Purpose: List files and directories in the current directory.
+
+cd
+Purpose: Change directory.
+
+clear
+Purpose: Clear the terminal screen.
+ echo
+Purpose: Display a line of text or a variable’s value.
+ Exercise:
+ 1. Navigate to the home directory.
+ 2. List all hidden files.
+ 3. Create a file called intro.txt and write a line into it
+
+ 4. ans:
+ 5. 
 
 
-EXERCISE:
+
+
+
+
+
+
+
