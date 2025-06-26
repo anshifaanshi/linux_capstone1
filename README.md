@@ -167,8 +167,34 @@ do
 done
  Exercise:- Create a script greet.sh that accepts a name and prints "Hello, $name".- Write a script that prints numbers 1 to 10 using a for loop.
  ans:
+![Image](https://github.com/user-attachments/assets/aad952a2-150d-4e5f-b6e4-00ff2572988d)
+ Page 8: System Monitoring & Logs
+ Task 1: Monitoring- Commands: top, htop, ps, df -h, du -sh, free -
+ ans:
+ top
+Purpose: Displays real-time information about system processes, CPU and memory usage.
+htop
+Purpose: An enhanced, user-friendly version of top.
+ps
+Purpose: Shows running processes.
+df -h
+Purpose: Displays disk space usage of all mounted filesystems.
+du -sh
+Purpose: Shows the total size of a file or directory.
+free -h
+Purpose: Displays memory (RAM and swap) usage.
+ Task 2: Logs- Log location: /var/log/- View logs using tail, less, ca
+ans:he /var/log/ directory contains system logs, application logs, service logs, and more.
+tail
+Purpose: View the last few lines of a log file
+less
+Purpose: View large files page-by-page with scroll.
+cat
+Purpose: Display the entire contents of a file at once.
 
-
+ Exercise:- Monitor memory and CPU usage using top.- View last 10 lines of the syslo
+ ans:
+ 
 
 
 
