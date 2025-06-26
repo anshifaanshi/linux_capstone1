@@ -31,6 +31,32 @@ Purpose: Display a line of text or a variable’s value.
  4. ans:
  5. ![Image](https://github.com/user-attachments/assets/e0cb543c-f3f8-4e0c-bd63-7a700ea8dc72)
 
+ 6.  Page 2: File and Directory Operations
+ Task 1: File Management- Commands: touch, mkdir, rm, rmdir, mv, cp, cat, nano, less
+
+ans:
+touch
+Create an empty file or update timestamp.
+mkdir
+Create a directory.
+ rm
+Remove a file
+rmdir
+Remove an empty directory.
+mv
+Move or rename files/directories.
+cp
+Copy files or directories.
+cat
+Display contents of a file.
+nano
+Open a simple text editor in the terminal.
+less
+View long files page-by-page
+Task 2: Exercises- Create a directory linux_practice.- Inside it, create a file info.md, add some content, and then copy it as info_backup.md.- Move the info.md to a folder achives
+ans:
+
+
 
 
 
