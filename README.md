@@ -193,9 +193,27 @@ cat
 Purpose: Display the entire contents of a file at once.
 
  Exercise:- Monitor memory and CPU usage using top.- View last 10 lines of the syslo
+ ans:![Image](https://github.com/user-attachments/assets/74f33dc3-3426-41c5-8266-29c581c6ad53)
+ 
+  Page 9: Networking in Linux
+ Task 1: Networking Commands- Commands: ifconfig, ip a, ping, netstat, curl, wget, hostname, ssh
+ ans:ifconfig
+Purpose: Display or configure network interfaces
+ip a 
+Purpose: Show detailed IP address information for all network interfaces.
+ping
+Purpose: Test connectivity to a host by sending ICMP echo requests.
+netstat
+Purpose: Show network connections, routing tables, interface statistics, etc.
+curl
+Purpose: Transfer data from or to a server using various protocols.
+wget
+Purpose: Download files from the internet.
+ hostname
+Purpose: Show or set the system’s hostname.
+ Task 2: Exercises- Ping google.com and capture output.- Use curl to fetch HTML of a website.- SSH into a remote system (if avail
  ans:
  
-
 
 
 
