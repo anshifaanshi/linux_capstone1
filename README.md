@@ -55,6 +55,45 @@ less
 View long files page-by-page
 Task 2: Exercises- Create a directory linux_practice.- Inside it, create a file info.md, add some content, and then copy it as info_backup.md.- Move the info.md to a folder achives
 ans:
+![Image](https://github.com/user-attachments/assets/ebe52352-d752-4f62-a7a4-21a6fe4333f9)
+
+ Page 3: File Permissions
+ Task 1: Understanding File Permissions- Explain file permission notations (e.g., -rwxr-xr--).- Commands: chmod, chown,
+ ans:
+  Page 3: File Permissions
+ Task 1: Understanding File Permissions- Explain file permission notations (e.g., -rwxr-xr--).- Commands: chmod, chown,
+ chmod – Change file permissions
+ chown – Change file owner
+
+ Task 2: Exercises- Create a script file test.sh and give it execute permission.- Change the ownership of a file to a different user (use sudo if needed).
+ans:
+
+
+
+
+
+
+
+
+ Page 4: Users and Groups
+ Task 1: Users and Group Management- Commands: adduser, usermod, passwd, groups, id, su, sud
+
+ans:adduser
+Purpose: Add a new user (and create their home directory).
+usermod
+Purpose: Modify a user’s account (e.g., add to a group).
+passwd
+Purpose: Change a user’s password.
+groups
+Purpose: Show groups a user belongs to
+id
+Purpose: Show user ID (UID), group ID (GID), and groups
+sudo
+Purpose: Run a command with root (admin) privileges
+ Task 2: Exercises- Create a user called intern1 and a group called interns.- Add intern1 to interns group.- Set a password for the 
+
+ ans:
+
 
 
 
