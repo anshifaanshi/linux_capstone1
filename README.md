@@ -114,6 +114,35 @@ Installs a specific software package.
  Task 2: Exercises- Install curl, git, and tree on your system.- Remove tree afterward using a package manager
  ans:
 ![Image](https://github.com/user-attachments/assets/a914005a-0b6b-43c9-881c-cb80bd508b76)
+![Image](https://github.com/user-attachments/assets/eac682ff-fd8f-43e6-a536-c0fba79130df)
+ Page 6: File Searching and Redirection
+ Task 1: Search and Filters- Commands: find, grep, locate, head, tail, sort, w
+ ans:find
+Purpose: Search for files and directories in a directory hierarchy.
+grep
+Purpose: Search for specific patterns or text inside files.
+locate
+Purpose: Quickly find file locations (uses a prebuilt index).
+head
+Purpose: Display the first few lines of a file (default is 10).
+tail
+Purpose: Display the last few lines of a file (default is 10).
+sort
+Purpose: Sort lines of a file or input.
+
+Task 2: Redirection- Usage of >, >>, <, 
+ans:> (Output Redirection)
+Purpose: Redirects standard output to a file, overwriting the file if it exists.
+>> (Append Output Redirection)
+Purpose: Redirects output to a file, appending to the end of the file (does not overwrite).
+< (Input Redirection)
+Purpose: Takes input from a file instead of the keyboard.
+
+ Exercise:- Create a file with multiple lines.- Use grep to find a keyword.- Pipe output of ls -l into grep and filter .sh files
+ ans:
+
+
+
 
 
 
