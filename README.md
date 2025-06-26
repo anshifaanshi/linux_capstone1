@@ -18,4 +18,6 @@ cd:change the current working directory to another  directory
 clear:to clear the screen
 echo:print text or variable to the therminal
 whoami:display the user currently logged in to the system
+
+
 EXERCISE:
