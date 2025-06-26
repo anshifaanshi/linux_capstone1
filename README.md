@@ -213,6 +213,17 @@ Purpose: Download files from the internet.
 Purpose: Show or set the system’s hostname.
  Task 2: Exercises- Ping google.com and capture output.- Use curl to fetch HTML of a website.- SSH into a remote system (if avail
  ans:![Image](https://github.com/user-attachments/assets/79dc9a5c-4022-4faa-96ea-72a688c8243b)
+ ![Image](https://github.com/user-attachments/assets/bb73f331-f05c-489c-8257-6b005c065a6d)
+  Page 10: Final Challenge (Capstone)
+ Task 1: Capstone Exercise
+ Combine your knowledge in a small real-world task.- Create a bash script that:
+  1. Checks if curl is installed.
+  2. If not, installs it.
+  3. Fetches data from https://api.github.com and saves to github.txt
+  4. Logs the operation in a file called operation.log with timestamps.
+ Bonus Task (Optional):- Schedule the above script using cron to run every day at 9:00 AM
+
+ans:
  
 
 
