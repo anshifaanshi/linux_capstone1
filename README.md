@@ -223,7 +223,7 @@ Purpose: Show or set the system’s hostname.
   4. Logs the operation in a file called operation.log with timestamps.
  Bonus Task (Optional):- Schedule the above script using cron to run every day at 9:00 AM
 
-ans:
+ans:![Image](https://github.com/user-attachments/assets/1ab3fd39-c1e3-40df-a176-6bd3129d020f)
  
 
 
