@@ -224,6 +224,13 @@ Purpose: Show or set the system’s hostname.
  Bonus Task (Optional):- Schedule the above script using cron to run every day at 9:00 AM
 
 ans:![Image](https://github.com/user-attachments/assets/1ab3fd39-c1e3-40df-a176-6bd3129d020f)
+![Image](https://github.com/user-attachments/assets/ad1c398c-a459-4a22-a02d-bb0f342d9ddd)
+
+![Image](https://github.com/user-attachments/assets/ae2a7cff-bb16-4069-8c73-646c7a80e05e)
+
+![Image](https://github.com/user-attachments/assets/d8f63858-ea1d-4a00-a6b1-f4a7687ad6f1)
+
+![Image](https://github.com/user-attachments/assets/6348e2b4-4dc7-4023-a38c-9dcb2ae2a6c7)
  
 
 
