@@ -212,7 +212,7 @@ Purpose: Download files from the internet.
  hostname
 Purpose: Show or set the system’s hostname.
  Task 2: Exercises- Ping google.com and capture output.- Use curl to fetch HTML of a website.- SSH into a remote system (if avail
- ans:
+ ans:![Image](https://github.com/user-attachments/assets/79dc9a5c-4022-4faa-96ea-72a688c8243b)
  
 
 
