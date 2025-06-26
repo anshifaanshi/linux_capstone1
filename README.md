@@ -29,7 +29,7 @@ Purpose: Display a line of text or a variable’s value.
  3. Create a file called intro.txt and write a line into it
 
  4. ans:
- 5. 
+ 5. ![Image](https://github.com/user-attachments/assets/e0cb543c-f3f8-4e0c-bd63-7a700ea8dc72)
 
 
 
