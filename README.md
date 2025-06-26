@@ -92,6 +92,26 @@ sudo
 Purpose: Run a command with root (admin) privileges
  Task 2: Exercises- Create a user called intern1 and a group called interns.- Add intern1 to interns group.- Set a password for the 
 
+ ans:![Image](https://github.com/user-attachments/assets/5f688d4b-8c25-4c4d-96d2-f7353e3cb190)
+ Page 5: Package Management
+ Task 1: Package Installations- Difference between apt, yum, and dnf.- Commands: sudo apt update && sudo apt upgrade, sudo apt install <package
+ ans:Linux distributions use different package managers to install, update, and manage software packages. The three commonly used package managers are apt, yum, and dnf.
+
+apt (Advanced Package Tool) is used in Debian-based systems such as Ubuntu and Linux Mint. It allows users to install, update, and remove software packages with .deb extensions. It is user-friendly and widely supported.
+
+yum (Yellowdog Updater Modified) is used in older Red Hat-based systems like CentOS 7 and RHEL 7. It manages .rpm packages and resolves software dependencies during installations.
+
+dnf (Dandified YUM) is the modern replacement for yum, introduced in Fedora and newer versions of CentOS and RHEL (8 and above). It is more efficient and faster, with better dependency management and performance.
+sudo: Runs the command as a superuser (admin).
+
+apt: The package manager.
+
+update: Updates the package list.
+sudo apt install <package-name>
+What it does:
+Installs a specific software package.
+
+ Task 2: Exercises- Install curl, git, and tree on your system.- Remove tree afterward using a package manager
  ans:
 
 
