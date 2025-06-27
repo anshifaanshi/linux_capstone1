@@ -67,7 +67,11 @@ ans:
 
  Task 2: Exercises- Create a script file test.sh and give it execute permission.- Change the ownership of a file to a different user (use sudo if needed).
 ans:
+![Image](https://github.com/user-attachments/assets/d52a928b-2ecf-48bf-90d7-a2c1f8a0264e)
 
+![Image](https://github.com/user-attachments/assets/d841143c-e4bf-47ec-9910-3fee4b031f8f)
+
+![Image](https://github.com/user-attachments/assets/3ff0801d-3cda-4f63-a892-cf0d6d72b71d
 
 
 
